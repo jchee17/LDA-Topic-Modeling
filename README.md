@@ -1,6 +1,8 @@
 # LDA-Topic-Modeling
 IPython Noteboks exploring LDA Topic Modeling. 
+
 Sources:
+
 http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/
 
 https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation
